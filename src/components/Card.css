@@ -27,8 +27,8 @@
 .Card.Green .Header{color: #fff; background-color: #849385}
 .Card.Green .Content{background-color: #c5cec6}
 
-.Card.Purple .Header{color: #fff; background-color: #e1c2af}
-.Card.Purple .Content{background-color: #fdebde}
+.Card.Purple .Header{color: #fff; background-color: palevioletred}
+.Card.Purple .Content{background-color: #fcacd1}
 
 .Card.Blue .Header{color: #fff; background-color: #ac4f38}
 .Card.Blue .Content{background-color: #e07453}
